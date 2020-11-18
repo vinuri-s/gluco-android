@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">GlucoMate</string>
+
+    /* newly added the below things */
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_glucose">Glucose</string>
+    <string name="nav_pressure">Pressure</string>
+    <string name="nav_medications">Medications</string>
+    <string name="nav_activities">Activities</string>
+    <string name="nav_meals">Meals</string>
+    <string name="nav_bmi">BMI</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Dashboard</item>
+        <item>Profile</item>
+        <item>Glucose</item>
+        <item>Pressure</item>
+        <item>Medications</item>
+        <item>Activities</item>
+        <item>Meals</item>
+        <item>BMI</item>
+        <item>Reminders</item>
+        <item>Settings</item>
+        <item>Notifications</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meals">Meals</string>
+    <string name="food_type">Food Type</string>
+    <string name="carb">Carb(g)</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="rreminder">Rreminder</string>
+    <string name="note">Note</string>
+    <string name="add">Add</string>
+    <string name="on">On</string>
+    <string name="time_duration_min">Time Duration(min)</string>
+    <string name="medication">Medication</string>
+    <string name="units">Units</string>
+    <string name="medicine">Medicine</string>
+
+    <string name="reminder">Reminder</string>
+
+    <string name="on1">ON</string>
+
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="systrolic_hgmm">Systrolic(Hgmm)</string>
+    <string name="diastrolic_hgmm">Diastrolic(Hgmm)</string>
+    <string name="pulse_bpm">Pulse(bpm)</string>
+
+
+    <string name="on2">ON</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
